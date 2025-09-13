@@ -32,14 +32,17 @@ Final-year CSE student specializing in AI & ML with hands-on experience in **Jav
 ---
 
 ## 🚀 Projects
-- **Educational Organization System – ServiceNow**  
-  Custom tables, business rules, client scripts, and flow designers for managing admissions, grades, and fees.  
+- **Banking System Simulator-Java|SpringBoot**  
+  Built using Spring Boot and JDBC with SQLite, with account management, transactions and history etc .
+  **Repo:** [GitHub](https://github.com/ShariyaShaik/Banking-System)
 
 - **Fantasy Cricket Application – Python, SQL, Qt Designer**  
-  GUI app for team creation, player management, and score calculations.  
+  GUI app for team creation, player management, and score calculations.
+  **Demo:** [LinkedIn](https://www.linkedin.com/posts/shariya-shaik-13677a268_excited-to-share-my-latest-project-a-fantasy-activity-7211810547988668416-audU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGcDzoBwJGtScFFKVwyEfzazxRp9b-3ffA)  
 
 - **Electricity Bill Management System – ServiceNow**  
-  Automates consumer details, bills, and receipts with **Virtual Agent integration**.  
+  Automates consumer details, bills, and receipts with **Virtual Agent integration**.
+  **Demo:** [LinkedIn](https://www.linkedin.com/posts/shariya-shaik-13677a268_servicenow-virtualagent-automation-activity-7370366782080999424-40di?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGcDzoBwJGtScFFKVwyEfzazxRp9b-3ffA)
 
 ---
 
