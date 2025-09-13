@@ -68,9 +68,9 @@ Final-year CSE student specializing in AI & ML with hands-on experience in **Jav
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&margin-w=15&margin-h=15)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShariyaShaik&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShariyaShaik&layout=compact&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ShariyaShaik&theme=radical&margin-w=15&margin-h=15)  
 
 ---
 
@@ -78,4 +78,5 @@ Final-year CSE student specializing in AI & ML with hands-on experience in **Jav
 📍 Tirupati, Andhra Pradesh  
 📧 **shaikshariya2825@gmail.com**  
 📱 **+91 7660896768**  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/YOUR_GITHUB_USERNAME) | [HackerRank](https://www.hackerrank.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shariya-shaik-13677a268/) | [GitHub](https://github.com/ShariyaShaik) | [HackerRank](https://www.hackerrank.com/profile/shaikshariya2825) | [LeetCode](https://leetcode.com/u/Shariya123)  
+
